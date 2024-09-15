@@ -10,11 +10,11 @@ class audience
 
 int main()
 {
-	int a;
+	int b;
 	cout<<"1.Reserve a Ticket:"<<endl;
 	cout<<"2.Exit:"<<endl;
 	cout<<"Enter your Choice:";
-	cin>>a;
+	cin>>b;
 	for(int i=0;i<10;i++)
 	{
 		for(int j=0;j<10;j++)
